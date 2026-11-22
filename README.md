@@ -28,7 +28,7 @@ Ce dépôt rassemble une sélection de mes projets académiques et personnels, o
 
 | Domaine | Contenu |
 
-| [Systèmes](bases-de-donnees/) | Modélisation, requêtes SQL et gestion des données |
+| [Systèmes](systèmes/) | Administration, configuration et gestion des environnements |
 | [Réseaux](reseaux/) | Configuration, architecture et travaux pratiques |
 | [Cybersécurité](cybersecurite/) | Audits, analyses et études de sécurité |
 | [Projets personnels](projets-personnels/) | Expérimentations et projets réalisés hors cadre scolaire |
