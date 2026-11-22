@@ -28,9 +28,10 @@ Ce dépôt rassemble une sélection de mes projets académiques et personnels, o
 
 | Domaine | Contenu |
 
-| [Systèmes](systèmes/) | Administration, configuration et gestion des environnements |
-| [Réseaux](reseaux/) | Configuration, architecture et travaux pratiques |
-| [Cybersécurité](cybersecurite/) | Audits, analyses et études de sécurité |
+| [Systèmes](systèmes/) | Administration, configuration et gestion des environnements Windows (Client / Serveur) et Linux |
+| [Réseaux](éeseaux/) | Configuration, architecture et travaux pratiques |
+| [Cybersécurité](cybersécurité/) | Audits, analyses et études de sécurité |
+| [Supervision](supervision/) | Surveillance et métrologie des infrastructures (Zabbix, PRTG, Grafana) |
 | [Projets personnels](projets-personnels/) | Expérimentations et projets réalisés hors cadre scolaire |
 
 
